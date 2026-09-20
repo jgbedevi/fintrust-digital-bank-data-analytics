@@ -13,7 +13,7 @@ This repository contains my work for the FinTrust Digital Bank project across th
 
 ### Week 1 — Understand & Plan
 Business understanding, resource review, data profiling, analytical questions, KPI planning, and dashboard wireframe.
-- `week1/FinTrust_Week1_DataAnalytics_GBEDEVI_EN.docx`
+- `FinTrust_Week1_DataAnalytics_GBEDEVI_EN.docx`
 
 ### Week 2 — Analyse & Prepare
 _Coming soon._
