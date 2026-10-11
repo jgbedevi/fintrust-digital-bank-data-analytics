@@ -30,28 +30,14 @@ Business understanding, resource review, data profiling, analytical questions, K
 
 ### Week 2: Analyse & Prepare
 Data cleaning and data quality report, first KPIs, first SQL analysis and the first set of business findings.
-- _Add the Week 2 files and their links here._
 
 ### Week 3: Develop & Integrate
 Deeper analysis, five Python charts, SQL analysis, first full four-page Power BI dashboard, validated findings and recommendations.
-- [`FinTrust_Week3_KPI_Analysis.docx`](week3/FinTrust_Week3_KPI_Analysis.docx)
-- [`FinTrust_Week3_Findings.docx`](week3/FinTrust_Week3_Findings.docx)
-- [`FinTrust_Week3_Recommandations.docx`](week3/FinTrust_Week3_Recommandations.docx)
-- [`FinTrust_Week3_Documentation.docx`](week3/FinTrust_Week3_Documentation.docx)
-- [`FinTrust_Week3_SQL_Analysis.sql`](week3/FinTrust_Week3_SQL_Analysis.sql)
-- [`FinTrust_Week3_Python_Analysis.ipynb`](week3/FinTrust_Week3_Python_Analysis.ipynb)
-- [`FinTrust_Week3_Dashboard.pdf`](week3/FinTrust_Week3_Dashboard.pdf)
+
 
 ### Week 4: Test, Refine & Present
 Final version of the work, with testing, validation and documentation. The full instructions to install, run and read the results are in [`week4/README.md`](week4/README.md).
 
-| Deliverable | File |
-|---|---|
-| Final report (review, SQL, dashboard, insights, validation, limitations) | [`week4/docs/FinTrust_Week4_Final_Report.docx`](week4/docs/FinTrust_Week4_Final_Report.docx) |
-| Final SQL (10 business queries) | [`week4/sql/FinTrust_Week4_Final_SQL.sql`](week4/sql/FinTrust_Week4_Final_SQL.sql) |
-| Final Python notebook (executed) | [`week4/notebooks/FinTrust_Week4_Final_Analysis.ipynb`](week4/notebooks/FinTrust_Week4_Final_Analysis.ipynb) |
-| Final dashboard (Power BI file and PDF export) | _Add the link to the .pbix and the PDF._ |
-| Presentation slides | [`week4/docs/FinTrust_Week4_Presentation.pptx`](week4/docs/FinTrust_Week4_Presentation.pptx) |
 
 **Main results of the final week**
 - 21 of 21 dashboard values matched an independent recalculation in Python, and 12 of 12 data quality tests passed.
