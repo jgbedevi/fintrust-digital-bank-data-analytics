@@ -36,7 +36,7 @@ Deeper analysis, five Python charts, SQL analysis, first full four-page Power BI
 
 
 ### Week 4: Test, Refine & Present
-Final version of the work, with testing, validation and documentation. The full instructions to install, run and read the results are in [`week4/README.md`](week4/README.md).
+Final version of the work, with testing, validation and documentation. 
 
 
 **Main results of the final week**
